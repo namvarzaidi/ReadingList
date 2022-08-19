@@ -1,0 +1,1 @@
+INSERT INTO `book` (`book_title`, `author_name`, `date_started`, `book_rating`) VALUES ('example book', 'example author', '01/01/2000', 10);
